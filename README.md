@@ -1,4 +1,7 @@
-![gamelogo](https://github.com/user-attachments/assets/3542d1b8-3fe0-4b0a-9d09-3222f5a20a5b  =250x250)
+
+![gamelogo](https://github.com/user-attachments/assets/9de27138-8d12-4b30-a3ad-b971cc3e6192)
+![musician](https://github.com/user-attachments/assets/61d97fa9-994f-4ffc-af9d-dfed99e61687)
+
 
 
 
