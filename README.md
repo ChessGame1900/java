@@ -1,5 +1,5 @@
-# java
-It is a 2d game on which I was working using java default libraries.  I don't know when I will come back to project. Now I am working on cpu emulator in c.
+
+It is a project ans game on which I was working using java default libraries. Some day I will finish it :)
 
 Special thanks to RyiSnow(youtube) for great tutorial and explaining. Special thanks to Momentary Unicorn(youtobe)  and all internet pixel art community.
 
